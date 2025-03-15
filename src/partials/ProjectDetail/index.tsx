@@ -7,7 +7,7 @@ import ProjectCTA from 'components/ProjectCTA'
 import TextIntro from 'components/TextIntro'
 import TextTwoColumns from 'components/TextTwoColumns'
 import Media from 'components/Media'
-import Awards from 'components/Awards'
+import Awards from 'componentsd/Awards'
 import Numbers from 'components/Numbers'
 
 // Hooks
